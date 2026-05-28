@@ -10,7 +10,6 @@ I'm a student of DU interested in:
 - 🤖 Automation and scripting
 - 🐍 Python development
 - 🛠️ Building practical tools and solutions
-- 💻 Full-stack development
 
 ---
 
