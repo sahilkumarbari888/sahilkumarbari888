@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about automation, Python developmen
 
 ## 💡 About Me
 
-I'm a developer interested in:
+I'm a student of DU interested in:
 - 🤖 Automation and scripting
 - 🐍 Python development
 - 🛠️ Building practical tools and solutions
