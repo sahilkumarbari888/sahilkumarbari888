@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about automation, Python developmen
 
 ## 🚀 Featured Projects
 
-### [Jarvis Automation](https://github.com/sahilkumarbari888/jarvis-automation)
 A Python-based automation project designed to streamline and enhance workflow efficiency.
 - **Language:** Python
 - **Status:** Active Development
@@ -21,12 +20,6 @@ I'm a developer interested in:
 - 🐍 Python development
 - 🛠️ Building practical tools and solutions
 - 💻 Full-stack development
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilkumarbari888&show_icons=true&theme=dark)
 
 ---
 
