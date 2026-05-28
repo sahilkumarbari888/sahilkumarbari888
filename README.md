@@ -4,15 +4,6 @@ Welcome to my GitHub profile! I'm passionate about automation, Python developmen
 
 ---
 
-## 🚀 Featured Projects
-
-A Python-based automation project designed to streamline and enhance workflow efficiency.
-- **Language:** Python
-- **Status:** Active Development
-- **Features:** Automation scripts and tools
-
----
-
 ## 💡 About Me
 
 I'm a developer interested in:
